@@ -38,19 +38,9 @@ Thank you for stopping by, and I look forward to connecting with you! <img src="
 ## Contact Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Call Me Hand Medium-Light Skin Tone" width="25" height="25" />
 
 <div>
-    <a href="mailto:sobhan.yaghobi.work@gmail.com">
-        <img src="gmail.svg">
-    </a>
-    <a href="https://www.instagram.com/sobhan__ya">
-        <img src="instagram.svg">
-    </a>
-    <a href="https://www.linkedin.com/in/sobhan-yaghobi-709209244">
-        <img src="linkedin.svg">
-    </a>
-    <a href="https://t.me/sobhan_yaghobii">
-        <img src="telegram.svg">
-    </a>
-    <a href="https://github.com/sobhan-yaghobi">
-        <img src="github.svg">
-    </a>
+    <img href="mailto:sobhan.yaghobi.work@gmail.com" src="gmail.svg">
+    <img href="https://www.instagram.com/sobhan__ya" src="instagram.svg">
+    <img href="https://www.linkedin.com/in/sobhan-yaghobi-709209244" src="linkedin.svg">
+    <img href="https://t.me/sobhan_yaghobii" src="telegram.svg">
+    <img href="https://github.com/sobhan-yaghobi" src="github.svg">
 </div>
