@@ -17,39 +17,40 @@ Thank you for stopping by, and I look forward to connecting with you! <img src="
 ## Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" />
 
 <div>
-    <img style="border-radius:.5rem;" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img style="border-radius:.5rem;" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img style="border-radius:.5rem;" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-    <img style="border-radius:.5rem;" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img style="border-radius:.5rem;" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img style="border-radius:.5rem;" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img style="border-radius:.5rem;" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img style="border-radius:.5rem;" src="https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=white"">
-    <img style="border-radius:.5rem;" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
-    <img style="border-radius:.5rem;" src="https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white">
-    <img style="border-radius:.5rem;" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-    <img style="border-radius:.5rem;" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-    <img style="border-radius:.5rem;" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-    <img style="border-radius:.5rem;" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
-    <img style="border-radius:.5rem;" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+    <img src="html.svg">
+    <img src="css.svg">
+    <img src="sass.svg">
+    <img src="bootstrap.svg">
+    <img src="javascript.svg">
+    <img src="typescript.svg">
+    <img src="react.svg">
+    <img src="reactHookForm.svg">
+    <img src="lodash.svg">
+    <img src="materialUi.svg">
+    <img src="antDesign.svg">
+    <img src="npm.svg">
+    <img src="postman.svg">
+    <img src="tailwind.svg">
+    <img src="vite.svg">
+    <img src="figma.svg">
 </div>
 
 ## Contact Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Call Me Hand Medium-Light Skin Tone" width="25" height="25" />
 
 <div>
     <a href="mailto:sobhan.yaghobi.work@gmail.com">
-        <img style="border-radius:.5rem;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+        <img src="gmail.svg">
     </a>
     <a href="https://www.instagram.com/sobhan__ya">
-        <img style="border-radius:.5rem;" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+        <img src="instagram.svg">
     </a>
     <a href="https://www.linkedin.com/in/sobhan-yaghobi-709209244">
-        <img style="border-radius:.5rem;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+        <img src="linkedin.svg">
     </a>
     <a href="https://t.me/sobhan_yaghobii">
-        <img style="border-radius:.5rem;" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+        <img src="telegram.svg">
     </a>
     <a href="https://github.com/sobhan-yaghobi">
-        <img style="border-radius:.5rem;" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+        <img src="github.svg">
     </a>
 </div>
