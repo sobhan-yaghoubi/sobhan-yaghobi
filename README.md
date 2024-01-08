@@ -1,10 +1,10 @@
-<div style="display : flex ; align-items : flex-start ; justify-content : flex-start ; gap : 1rem">
-    <h1>Hello, I'm Sobhan</h1> 
+<div>
+    <h1 style="display : inline;">Hello, I'm Sobhan</h1> 
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="70" height="70" />
 </div>
 
-<div style="display : flex ; align-items : center ; justify-content : flex-start ; gap : 1rem">
-    <h2>About Me</h2> 
+<div>
+    <h2 style="display: inline-block;margin-right : .5rem;">About Me</h2> 
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="25" height="25" />
 </div>
 
@@ -18,15 +18,17 @@ a passionate **web developer** specializing in **front-end** development. I was 
 
 <p style="font-size : 1.1rem; font-weight : 600 ;">I am on a journey of continuous learning and growth, and I'm excited about the possibilities that the world of technology holds. Whether it's collaborating on exciting projects, exploring innovative approaches to front-end development, or contributing to the vibrant tech community, I'm always open to new opportunities and connections.</p>
 
-<p style="display : flex ; gap : .5rem ;">
-    Thank you for stopping by, and I look forward to connecting with you! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Blowing%20a%20Kiss.png" alt="Face Blowing a Kiss" width="25" height="25" />
-</p>
-
-<div style="display : flex ; align-items : center ; justify-content : flex-start ; gap : 1rem">
-    <h2>Skills</h2> 
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" />
+<div>
+    <p style="display: inline-block; margin-right : .5rem;">
+        Thank you for stopping by, and I look forward to connecting with you! 
+    </p>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Blowing%20a%20Kiss.png" alt="Face Blowing a Kiss" width="25" height="25" />
 </div>
 
+<div>
+    <h2 style="display: inline-block;">Skills</h2> 
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" />
+</div>
 
 <img style="border-radius:.5rem;" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img style="border-radius:.5rem;" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -43,12 +45,12 @@ a passionate **web developer** specializing in **front-end** development. I was 
 <img style="border-radius:.5rem;" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img style="border-radius:.5rem;" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
 
-<div style="display : flex ; align-items : center ; justify-content : flex-start ; gap : 1rem">
-    <h2>Contact me</h2> 
+<div>
+    <h2 style="display: inline-block; margin-right : .5rem;">Contact me</h2> 
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Call Me Hand Medium-Light Skin Tone" width="25" height="25" />
 </div>
 
-<div style="display : flex ;justify-content: space-evenly ; align-items : center ;">
+<div>
     <a href="mailto:sobhan.yaghobi.work@gmail.com">
         <img style="border-radius:.5rem;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
