@@ -1,12 +1,6 @@
-<div>
-    <h1 style="display : inline;">Hello, I'm Sobhan</h1> 
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="70" height="70" />
-</div>
+# Hello, I'm Sobhan <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="70" height="70" />
 
-<div>
-    <h2 style="display: inline-block;margin-right : .5rem;">About Me</h2> 
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="25" height="25" />
-</div>
+## About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="25" height="25" />
 
 a passionate **web developer** specializing in **front-end** development. I was born on February 24, 2005. Technology has always fascinated me, and I have a keen interest in exploring the world of computers and software.
 
@@ -18,17 +12,9 @@ a passionate **web developer** specializing in **front-end** development. I was 
 
 <p style="font-size : 1.1rem; font-weight : 600 ;">I am on a journey of continuous learning and growth, and I'm excited about the possibilities that the world of technology holds. Whether it's collaborating on exciting projects, exploring innovative approaches to front-end development, or contributing to the vibrant tech community, I'm always open to new opportunities and connections.</p>
 
-<div>
-    <p style="display: inline-block; margin-right : .5rem;">
-        Thank you for stopping by, and I look forward to connecting with you! 
-    </p>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Blowing%20a%20Kiss.png" alt="Face Blowing a Kiss" width="25" height="25" />
-</div>
+Thank you for stopping by, and I look forward to connecting with you! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Blowing%20a%20Kiss.png" alt="Face Blowing a Kiss" width="25" height="25" />
 
-<div>
-    <h2 style="display: inline-block;">Skills</h2> 
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" />
-</div>
+## Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" />
 
 <img style="border-radius:.5rem;" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img style="border-radius:.5rem;" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -44,11 +30,9 @@ a passionate **web developer** specializing in **front-end** development. I was 
 <img style="border-radius:.5rem;" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 <img style="border-radius:.5rem;" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img style="border-radius:.5rem;" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
+<img style="border-radius:.5rem;" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
-<div>
-    <h2 style="display: inline-block; margin-right : .5rem;">Contact me</h2> 
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Call Me Hand Medium-Light Skin Tone" width="25" height="25" />
-</div>
+## Contact Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Call Me Hand Medium-Light Skin Tone" width="25" height="25" />
 
 <div>
     <a href="mailto:sobhan.yaghobi.work@gmail.com">
