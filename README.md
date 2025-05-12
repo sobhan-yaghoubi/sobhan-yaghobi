@@ -2,7 +2,7 @@
 
 ## About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="25" height="25" />
 
-a passionate **web developer** specializing in **front-end** development. I was born on February 24, 2005. Technology has always fascinated me, and I have a keen interest in exploring the world of computers and software.
+a passionate **web developer** specializing in **front-end** development and little **back-end**. I was born on February 24, 2005. Technology has always fascinated me, and I have a keen interest in exploring the world of computers and software.
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="50" height="50" /> I'm currently studying Network and Software as my major, fueling my curiosity to understand the intricacies of networking and the art of crafting software solutions.
 
